@@ -17,3 +17,5 @@ set autochdir
 let mapleader = "\<Space>"
 nnoremap <Leader>4 :!g++ -o %:r.out % <Enter> <Enter> 
 nnoremap <Leader>5 :!./%:r.out <Enter>
+
+colorscheme codedark
