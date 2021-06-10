@@ -1,0 +1,15 @@
+BasedOnStyle: Google
+IndentWidth: 4
+AccessModifierOffset: -4
+AllowShortBlocksOnASingleLine: true
+AllowShortCaseLabelsOnASingleLine: true
+AllowShortIfStatementsOnASingleLine: true
+AllowShortLoopsOnASingleLine: true
+ColumnLimit: 120
+AlwaysBreakTemplateDeclarations: false
+BreakBeforeBraces: Custom
+BraceWrapping:
+    AfterClass: true
+    AfterStruct: true
+    AfterFunction: true
+    AfterControlStatement: true
