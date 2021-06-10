@@ -1,2 +1,1 @@
-# My_Vim
-My _vimrc file
+# My-Vim-and-VS-Code-Configuration
